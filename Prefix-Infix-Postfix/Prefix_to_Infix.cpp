@@ -33,3 +33,4 @@ int main(){
 		cout<<prefix_to_infix(s)<<endl;
 	}
 }
+

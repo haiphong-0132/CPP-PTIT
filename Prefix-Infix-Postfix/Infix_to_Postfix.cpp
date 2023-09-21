@@ -32,8 +32,3 @@ void infix_to_postfix(string s){
 		st.pop();
 	}
 }
-int main(){
-	string s;
-	getline(cin,s);
-	infix_to_postfix(s);
-}
