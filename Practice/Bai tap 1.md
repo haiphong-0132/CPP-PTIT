@@ -25,6 +25,4 @@ In ra kết quả kiểm tra email hợp lệ hay không tương ứng trên m�
 <br />
 | Input | Output |
 |:---   |:---    |
-|2	|YES	 |
-|code@ptit.edu.vn	|NO	|
-|ptit@ptit		|	  |
+|2<br>code@ptit.edu.vn<br>ptit@ptit|YES<br>NO<br><br>|
