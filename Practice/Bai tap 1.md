@@ -14,7 +14,7 @@ Có một số quy tắc mà một địa chỉ email phải tuân theo, cụ th
 * Một địa chỉ email chỉ được phép chứa một ký tự "@".<br />
 * Một địa chỉ email hợp lệ không được chứa dấu cách, chỉ chứa các ký tự từ A-Z, a-z, 0-9 và các dấu ".", "_".
 <a/>
-Hãy kiểm tra các địa chỉ email trong danh sách có hợp lệ hay không. Nếu có in ra YES, ngược lại in ra NO. <br />
+Hãy kiểm tra các địa chỉ email trong danh sách có hợp lệ hay không. Nếu có in ra YES, ngược lại in ra NO. <br /> <br />
 
 **Input:** <br />
 Dòng đầu tiên cho số N là tổng số các địa chỉ email cần kiểm tra.<br />
