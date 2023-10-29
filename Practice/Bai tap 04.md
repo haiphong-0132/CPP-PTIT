@@ -8,7 +8,7 @@ Khu dân cư ABC tiến hành bầu tổ trưởng dân phố. Có M ứng viên
 Viết chương trình xác định người trúng cử.
 
 **Input:** <br />
-Dòng đầu ghi hai số N và M (1<M<10, 5<N<500). <br />
+Dòng đầu ghi hai số N và M ($1 < M < 10$, $5 < N < 500$). <br />
 Dòng thứ 2 ghi N giá trị trong các phiếu bầu. Các giá trị đảm bảo hợp lệ (tức là từ 1 đến M). <br />
 
 **Output:** <br />
