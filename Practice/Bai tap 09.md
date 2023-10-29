@@ -11,7 +11,7 @@ Hãy giúp hai bạn Tít và Mít viết chương trình giải mã nội dung 
 
 **Input:** <br />
 Nội dung bức thư gốc viết trên một dòng (S).
-S thỏa mãn 0 < length(S) < 1000; <br />
+S thỏa mãn $0$ $<$ length(S) $<$ $1000$; <br />
 
 **Output:** <br />
 Nội dung bức thư đã được mã hóa. <br />
