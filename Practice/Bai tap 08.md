@@ -2,7 +2,7 @@
 Viết chương trình tính tổng của tất cả các số thuận nghịch có chính xác N chữ số.
 
 **Input:** <br />
-Dữ liệu vào chứa một số nguyên N (1 <= N <= 10), đại diện cho số chữ số của các số thuận nghịch cần tính tổng.
+Dữ liệu vào chứa một số nguyên N ($1 \leqslant N \leqslant 10$), đại diện cho số chữ số của các số thuận nghịch cần tính tổng.
 
 **Output:** <br />
 Một số nguyên duy nhất, là tổng của tất cả các số thuận nghịch có chính xác N chữ số.
