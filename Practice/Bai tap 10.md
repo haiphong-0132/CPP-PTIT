@@ -7,7 +7,7 @@ Lễ Phát Động cuộc thi P-STARTUP 2022 vào Chiều 14h00 Ngày 07//10/202
 
 Địa điểm: Hội trường A2
 
-Tiêu chí tính điểm vòng loại dựa trên lượng bình chọn tính dựa trên lượt chia sẻ (70%) và lượt tương tác khác (30%).
+Tiêu chí tính điểm vòng loại dựa trên lượng bình chọn tính dựa trên lượt chia sẻ ($70$\%) và lượt tương tác khác ($30$\%).
 
 Cho danh sách các ý tưởng dự thi và lượt tương tác thống kê từ mạng xã hội. 3 ý tưởng xuất sắc nhất sẽ được lựa chọn vào vòng chung kết.
 
@@ -15,7 +15,7 @@ Hãy liệt kê danh sách các ý tưởng vào vòng chung kết. Sắp xếp 
 
 **Input:** <br />
 Dòng đầu tiên cho số ý tưởng dự thi. <br />
-Các dòng tiếp theo cho thông tin ý tưởng bao gồm mã, số lượt share, và số lượt tương tác khác. Các số đều <10<sup>9</sup>
+Các dòng tiếp theo cho thông tin ý tưởng bao gồm mã, số lượt share, và số lượt tương tác khác. Các số đều $<10^9$.
 
 **Output::** <br />
 In kết quả là danh sách mã ý tưởng.
