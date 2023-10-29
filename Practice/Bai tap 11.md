@@ -6,7 +6,7 @@ Theo quy định của một số thiết bị. Nội dung thông báo chỉ đ�
 Nhiệm vụ của bạn là hãy viết chương trình xử lý yêu cầu trên.
 
 **Input:** <br />
-Dòng đầu tiên là số bộ test T < 100. <br />
+Dòng đầu tiên là số bộ test $T < 100$. <br />
 T dòng tiếp theo mỗi dòng là một xâu ký tự có độ dài tối đa 1000 ký tự.
 
 **Output:** <br />
