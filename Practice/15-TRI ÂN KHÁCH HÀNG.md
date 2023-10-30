@@ -1,4 +1,4 @@
-# Bài 15
+# TRI ÂN KHÁCH HÀNG
 Ngân hàng TechcomBank có chương trình ưu đãi đặc biệt dành cho khách hàng có chi tiêu từ 100 triệu một tháng trở lên. Hãy giúp ngân hàng lọc danh sách các khách hàng đủ điều kiện nhận ưu đãi.
 
 **Input:** <br />
