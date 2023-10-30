@@ -1,4 +1,4 @@
-# BÀI 1
+# ĐỊA CHỈ EMAIL HỢP LỆ
 Email là viết tắt của cụm từ "electronic mail" - thư điện tử. Về cơ bản, email có nội dung như một bức thư thông thường, nhưng nó được gửi qua internet từ người gửi đến người nhận. Người gửi và người nhận bắt buộc phải có địa chỉ riêng (địa chỉ này là duy nhất) để tiến hành gửi và nhận thư. Một số người sử dụng trình duyệt web trong khi một số người khác sử dụng các chương trình có sẵn trên máy tính của họ để truy cập và lưu trữ thư điện tử. <br />
 <br />
 Một địa chỉ email có cấu trúc cơ bản gồm: xxx@yyy <br />
