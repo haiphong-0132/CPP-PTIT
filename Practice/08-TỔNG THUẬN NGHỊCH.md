@@ -1,4 +1,4 @@
-# Bài 8
+# TỔNG THUẬN NGHỊCH
 Viết chương trình tính tổng của tất cả các số thuận nghịch có chính xác N chữ số.
 
 **Input:** <br />
