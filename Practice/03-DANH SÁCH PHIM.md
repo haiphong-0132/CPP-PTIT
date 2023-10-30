@@ -6,7 +6,7 @@ Cho danh sách các phim trên hệ thống, hãy thực hiện sắp xếp danh
 **Input:** <br />
 Dòng đầu tiên cho 2 số N, M lần lượt là số lượng thể loại và số lượng bộ phim. <br />
 N dòng tiếp theo là thông tin tên thể loại. Mã thể loại tự động sinh theo thứ tự nhập vào.
-M dòng còn lại mỗi dòng là thông tin phim bao gồm Mã thể loại, ngày khởi chiếu (đd/mm/yyyy) tên phim và số tập phim (số nguyên tối đa 10000). <br />
+M dòng còn lại mỗi dòng là thông tin phim bao gồm Mã thể loại, ngày khởi chiếu (dd/mm/yyyy) tên phim và số tập phim (số nguyên tối đa 10000). <br />
 
 **Output:** <br />
 Danh sách phim đã sắp xếp như mẫu, mỗi phim trên một dòng. <br />
