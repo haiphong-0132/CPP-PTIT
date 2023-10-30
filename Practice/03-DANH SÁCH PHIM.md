@@ -1,4 +1,4 @@
-# Bài 3
+# DANH SÁCH PHIM
 Trên hệ thống phim của một website có các thông tin bộ phim bao gồm: Mã phim, Tên phim, Ngày khởi chiếu, Số tập phim, Thể loại. Mã phim được đánh số tự động từ P001, P002 và tự động tăng dần. Thể loại phim bao gồm thông tin Mã thể loại và Tên thể loại. Mã thể loại được đánh số tự động tăng dần từ TL001, TL002. <br />
 
 Cho danh sách các phim trên hệ thống, hãy thực hiện sắp xếp danh sách các bộ phim theo thứ tự ưu tiên ngày khởi chiếu tăng dần, tên phim sắp xếp theo thứ tự từ điển, số tập phim giảm dần. <br />
