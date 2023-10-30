@@ -1,4 +1,4 @@
-# Bài 7
+# KHÍ HẬU
 Mùa khô ở miền Nam được coi là thời điểm tốt nhất để đến thăm quan. Khi đó mặt trời chiếu gần như cả ngày, bầu trời trong xanh, rực rỡ, không khí trong lành, nhiệt độ khô ráo, độ ẩm thấp.
 
 Miền khí hậu phía Nam Việt Nam gồm phần lãnh thổ thuộc Tây Nguyên và Nam Bộ. Miền Nam nằm trong vùng có khí hậu nhiệt đới xavan với 2 mùa rõ rệt là mùa mưa và mùa khô.
