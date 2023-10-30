@@ -1,4 +1,4 @@
-# Bài 14
+# SỐ PHỨC
 Số phức (tiếng Anh: Complex number) là số có thể viết dưới dạng a + b $i$, trong đó a và b là các số thực, $i$ là đơn vị ảo, với $i^2 = -1$. Trong biểu thức này, số a gọi là phần thực, b gọi là phần ảo của số phức.
 
 Cho hai số phức $A$, $B$. Viết chương trình tính giá trị $(A+B)^2$.
