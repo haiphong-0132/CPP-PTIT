@@ -1,4 +1,4 @@
-# Bài 5
+# Bài 
 Passcode có thể hiểu là một chuỗi các ký tự (số hoặc chữ) được sử dụng để cài đặt cho máy tính bảng làm mật khẩu truy cập khi mở máy. Hầu hết những thiết bị iOS hiện nay đều được trang bị loại mã này. Passcode sẽ giúp cho chủ nhân của thiết bị bảo mật bằng những thông tin ở trên máy, và nếu như có ai đó muốn sử dụng iPad thì phải được sự đồng ý của chủ nhân nó.
 
 Đối với dạng passcode đơn giản (Chỉ bao gồm 4-6 chữ số). Để lưu trữ passcode mở khóa một cách an toàn, tránh bị đọc bởi một chương trình bên thứ ba, passcode được mã hóa và lưu trữ theo quy tắc sau:
