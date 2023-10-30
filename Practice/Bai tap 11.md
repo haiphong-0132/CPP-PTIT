@@ -14,4 +14,4 @@ In ra kết quả các thông báo đã xử lý <br />
 
 |Input|Output|
 |:---|:---|
-|2<br>Can cu Ke hoach giang day - hoc tap hoc ky 1 nam hoc 2021 - 2022 Can cu ket qua thi hoc ky 2 va hoc ky phu ky he nam hoc 2020 - 2021<br>Hoc vien Cong nghe Buu chinh Vien thong to chuc khai giang truc tuyen|Can cu Ke hoach giang day - hoc tap hoc ky 1 nam hoc 2021 - 2022 Can cu ket qua thi hoc ky 2 va hoc<br>Hoc vien Cong nghe Buu chinh Vien thong to chuc khai giang truc tuyen<br><br>|
+|2<br>Can cu Ke hoach giang day - hoc tap hoc ky 1 nam hoc 2021 - 2022 Can cu ket qua thi hoc ky 2 va hoc ky phu ky he nam hoc 2020 - 2021<br>Hoc vien Cong nghe Buu chinh Vien thong to chuc khai giang truc tuyen|Can cu Ke hoach giang day - hoc tap hoc ky 1 nam hoc 2021 - 2022 Can cu ket qua thi hoc ky 2 va hoc<br>Hoc vien Cong nghe Buu chinh Vien thong to chuc khai giang truc tuyen<br>|
