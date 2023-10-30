@@ -17,5 +17,5 @@ Ghi ra số thứ tự của người trúng cử. Hoặc nếu không có ai tr
 Ví dụ: <br />
 |Input|Output|
 |:--- |:---  |
-|10 4<br>2 3 1 2 3 4 1 2 3 2|3|
-|8 4<br>1 2 3 4 4 3 2 1|NONE|
+|10 4<br>2 3 1 2 3 4 1 2 3 2|3<br><br>|
+|8 4<br>1 2 3 4 4 3 2 1|NONE<br><br>|
