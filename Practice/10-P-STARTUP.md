@@ -11,7 +11,7 @@ Tiêu chí tính điểm vòng loại dựa trên lượng bình chọn tính d�
 
 Cho danh sách các ý tưởng dự thi và lượt tương tác thống kê từ mạng xã hội. 3 ý tưởng xuất sắc nhất sẽ được lựa chọn vào vòng chung kết.
 
-Hãy liệt kê danh sách các ý tưởng vào vòng chung kết. Sắp xếp theo thứ tự đăng ký. Trường hợp bằng điểm ưu tiên ý tưởng đăng ký sớm (mã nhỏ hơn).
+Hãy liệt kê danh sách các ý tưởng vào vòng chung kết. Sắp xếp theo thứ tự kết quả từ cao xuống thấp. Trường hợp bằng điểm ưu tiên ý tưởng đăng ký sớm (mã nhỏ hơn).
 
 **Input:** <br />
 Dòng đầu tiên cho số ý tưởng dự thi. <br />
