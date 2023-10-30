@@ -1,4 +1,4 @@
-# Bài 6
+# CHUẨN HÓA ĐOẠN VĂN
 Một câu trong văn bản được hiểu là dãy ký tự (có cả khoảng trống) cho đến khi gặp dấu ngắt câu hoặc xuống dòng (tức là đôi khi người ta quên viết dấu ngắt câu nhưng cứ xuống dòng là sang một câu mới). Các dấu ngắt câu trong bài toán này bao gồm: dấu chấm (.), dấu chấm cảm (!), dấu chấm hỏi (?).
 
 Hãy viết chương trình chuẩn hóa các câu trong dữ liệu vào với các yêu cầu sau: <br />
