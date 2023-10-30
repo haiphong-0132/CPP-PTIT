@@ -1,4 +1,4 @@
-# Bài 10
+# P-STARTUP
 Cuộc thi P-STARTUP "Ý tưởng sáng tạo khởi nghiệp hướng tới Ngày Chuyển đổi số vì cộng đồng 2022" với Chủ đề Công nghệ cho cuộc sống (AI For Life)
 
 Đối tượng tham gia: sinh viên PTIT tại các cơ sở đào tạo HN và HCM.
