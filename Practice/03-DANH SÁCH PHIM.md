@@ -15,4 +15,4 @@ Ví dụ: <br />
 
 |Input     |Output                               |
 |:---      |:---                                 |
-|2 3<br>Hai huoc<br>Tinh cam<br>TL001<br>25/11/2021<br>Phim so 1<br>10<br>TL001<br>04/12/2021<br>Phim so 2<br>15<br>TL002<br>25/11/2021<br>Phim so 3<br>5|P001 Hai huoc 25/11/2021 Phim so 1 10<br>P003 Hai huoc 25/11/2021 Phim so 3 5<br>P002 Hai huoc 04/12/2021 Phim so 2 15<br><br><br><br><br><br><br><br><br><br><br><br><br>|
+|2 3<br>Hai huoc<br>Tinh cam<br>TL001<br>25/11/2021<br>Phim so 1<br>10<br>TL001<br>04/12/2021<br>Phim so 2<br>15<br>TL002<br>25/11/2021<br>Phim so 3<br>5|P001 Hai huoc 25/11/2021 Phim so 1 10<br>P003 Tinh cam 25/11/2021 Phim so 3 5<br>P002 Hai huoc 04/12/2021 Phim so 2 15<br><br><br><br><br><br><br><br><br><br><br><br><br>|
