@@ -1,4 +1,4 @@
-# Bài 13
+# LỊCH THI HỌC KỲ
 Hệ thống quản lý lịch thi học kỳ cho nhiều môn học, mỗi môn học có (có các thông tin: Mã môn học, Tên môn học) Lịch thi học kỳ bao gồm nhiều thông tin gồm: Mã ca thi, Mã môn học, Ngày thi, Giờ thi, Nhóm thi. Mã ca thi được đánh số từ T001, T002 và tự động tăng dần.
 
 Cho danh sách các ca thi, mỗi môn học có nhiều ca thi, hãy thực hiện sắp xếp danh sách các ca thi theo thứ tự ưu tiên như sau: Ngày tăng dần, giờ tăng dần, mã môn học tăng dần.
