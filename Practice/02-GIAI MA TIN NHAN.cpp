@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-string Ecrypt(string s){
+string Encrypt(string s){
 	for (int i=0;i<s.size();i++){
 		if ('A'<=s[i]&&s[i]<='X'){
 			s[i]=s[i]+2;
