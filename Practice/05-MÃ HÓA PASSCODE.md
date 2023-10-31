@@ -5,7 +5,7 @@ Passcode có thể hiểu là một chuỗi các ký tự (số hoặc chữ) đ
 <p align="center">0-A, 1-B, 2-C,..., 9-J<br>Hoặc 0-K, 1-L,..., 9-T</p>
 Các chữ số được mã hóa thành dạng ký tự sau đó chèn thêm các chữ số khác để làm rối.
 
-Cho một passcode và một đoàn passcode đã được mã hóa. Hãy kiểm tra xem passcode đó có khớp với chuỗi đã được mã hóa không. Nếu có in ra YES, ngược lại in ra NO.
+Cho một passcode và một đoạn passcode đã được mã hóa. Hãy kiểm tra xem passcode đó có khớp với chuỗi đã được mã hóa không. Nếu có in ra YES, ngược lại in ra NO.
 
 **Input:** <br />
 Dòng đầu tiên cho số N là số passcode cần kiểm tra. <br />
