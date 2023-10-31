@@ -26,5 +26,5 @@ string Encrypt(string s){
 int main(){
 	string a;
 	getline(cin,a);
-	cout<<Ecrypt(a);
+	cout<<Encrypt(a);
 }
