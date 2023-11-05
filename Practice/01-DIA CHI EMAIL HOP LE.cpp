@@ -5,7 +5,7 @@ bool check(string s){
 	for (int i=0;i<s.size();i++){
 		if (s[i]=='@'){
 			count++;
-			if (count>1||count==0) return 0;	
+			if (count>1) return 0;	
 		}
 		if (!isalnum(s[i])&&s[i]!='.'&&s[i]!='_'&&s[i]!='@') return 0;
 	}
