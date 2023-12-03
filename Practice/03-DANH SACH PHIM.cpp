@@ -6,6 +6,7 @@ struct Film{
 	int d,m,y;
 	string name;
 	string episode;
+	string date;
 };
 bool cmp(Film a, Film b){
 	if (a.y==b.y){
@@ -50,9 +51,14 @@ int main(){
 		getline(cin,f[i].name);
 		cin>>f[i].episode;
 		cin.ignore();
+		f[i].date="";
+		if (f[i].d<10) f[i].date+="0";
+		f[i].date+=to_string(f[i].d)+"/";
+		if (f[i].m<10) f[i].date+="0";
+		f[i].date+=to_string(f[i].m)+"/"+to_string(f[i].y);
 	}
 	sort(f,f+m,cmp);
 	for (auto i:f){
-		cout<<i.filmCode<<" "<<mp[i.typeCode]<<" "<<i.d<<"/"<<i.m<<"/"<<i.y<<" "<<i.name<<" "<<i.episode<<"\n";
+		cout<<i.filmCode<<" "<<mp[i.typeCode]<<" "<<i.date<<" "<<i.name<<" "<<i.episode<<"\n";
 	}
 }

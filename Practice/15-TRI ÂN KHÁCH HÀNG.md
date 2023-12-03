@@ -12,4 +12,4 @@ T, T<sub>i</sub> thỏa mãn ràng buộc T $\leq 10^4$, $-10^9 \leq$ T<sub>i</s
 
 |Input|Output|
 |:---|:---|
-|1<br>Nguyen Van Nam<br>5<br>100000 5000000 -1000000 -2000000 -10000|NO<br><br><br><br>|
+|1<br>Nguyen Van Nam<br>6<br>100000 5000000 -1000000 -2000000 -10000|NO<br><br><br><br>|
